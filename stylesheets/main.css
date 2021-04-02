@@ -1906,7 +1906,7 @@ a.normal_gray:visited {
 .inter_3_bg,
 .dark.inter_3_bg {
   background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
-    url(../images/main/image-intro.jpg) fixed #444 center;
+    url(../images/main/image-intro-1-blur.jpg) fixed #444 center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
