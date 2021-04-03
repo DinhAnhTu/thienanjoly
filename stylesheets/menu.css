@@ -1660,7 +1660,7 @@ you can use the generic selector below, but it's slower:
   }
 }
 .navbar-nav {
-  margin: 0;
+  margin: 8px;
 }
 .navbar-nav > li > a {
   font-size: 16px;
