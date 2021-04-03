@@ -1,8 +1,5 @@
 /*
-* FlatPack HTML V4
-* Copyright 2015 PixFort
-* www.pixfort.com
-* 17/08/2015
+
 
 
 
@@ -9025,6 +9022,6 @@ iframe.c1 {
 }
 /* ------------------------------------------------------------------------------------ */
 
-.small_text li {
-  font-size: 10px;
+li.light_gray {
+  font-size: 14px;
 }
